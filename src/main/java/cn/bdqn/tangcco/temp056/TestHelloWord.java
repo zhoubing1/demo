@@ -6,7 +6,7 @@ package cn.bdqn.tangcco.temp056;
 public class TestHelloWord {
 
     public static void main(String[] args) {
-        System.out.println(("你是一个啥子"));
+        System.out.println(("啥子先打哪儿就打哪儿！"));
     }
 
 }
